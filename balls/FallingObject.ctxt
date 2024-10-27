@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingObject
+comment1.params=x\ y
+comment1.target=FallingObject(double,\ double)
+comment2.params=
+comment2.target=javafx.scene.shape.Circle\ getShape()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=boolean\ isCaught()
+comment5.params=caught
+comment5.target=void\ setCaught(boolean)
+numComments=6

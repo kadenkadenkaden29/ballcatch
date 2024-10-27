@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameController
+comment1.params=
+comment1.target=GameController()
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ getGamePane()
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=now
+comment4.target=void\ handle(long)
+numComments=5
